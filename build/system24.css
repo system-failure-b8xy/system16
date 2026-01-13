@@ -3,14 +3,14 @@
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
 .vt323-regular {
-  font-family: "VT323", monospace;
+  font-family: "VT323"
   font-weight: 400;
   font-style: normal;
 }
 
 
 @font-face {
-    font-family: "VT323", monospace;
+    font-family: "VT323"
     font-weight: 400;
     font-style: normal;
 
@@ -188,8 +188,8 @@ body {
 
 @container body style(--ascii-titles: on) {
     h3[data-text-variant='heading-xxl/extrabold'] {
-        font-family: "VT323", monospace;
-        font-size: 50px;
+        font-family: "VT323"
+        font-size: 75px;
         font-weight: 400;
     }
 }
