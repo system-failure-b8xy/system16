@@ -10,13 +10,6 @@
     src: local('asciid'), url('https://refact0r.github.io/system24/assets/asciid.woff') format('woff');
 }
 
-
-@font-face {
-    font-family: "VT323";
-    font-weight: 400;
-    font-style: normal;
-}
-
 body {
     /* font, change to '' for default discord font */
     --font: 'VT323'; /* change to '' for default discord font */
