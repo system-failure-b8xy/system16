@@ -2,10 +2,11 @@
 @import url('https://refact0r.github.io/midnight-discord/build/midnight.css');
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
-.vt323-regular {
-  font-family: "VT323"
-  font-weight: 400;
-  font-style: normal;
+@font-face {
+    font-family: 'asciid';
+    font-style: normal;
+    font-weight: 400;
+    src: local('asciid'), url('https://refact0r.github.io/system24/assets/asciid.woff') format('woff');
 }
 
 
@@ -188,8 +189,8 @@ body {
 
 @container body style(--ascii-titles: on) {
     h3[data-text-variant='heading-xxl/extrabold'] {
-        font-family: "VT323"
-        font-size: 75px;
+        font-family: 'asciid';
+        font-size: 50px;
         font-weight: 400;
     }
 }
