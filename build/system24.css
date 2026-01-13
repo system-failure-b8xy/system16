@@ -7,7 +7,7 @@
     font-family: 'asciid';
     font-style: normal;
     font-weight: 400;
-    src: local('asciid'), url('https://refact0r.github.io/system24/assets/asciid.woff') format('woff');
+    src: local('asciid'), url('https://system-failure-b8xy.github.io/system16/assets/asciid.woff') format('woff');
 }
 
 body {
@@ -15,7 +15,7 @@ body {
     --font: 'DM Mono'; /* change to '' for default discord font */
     --code-font: 'DM Mono'; /* change to '' for default discord font */
     font-weight: 300;
-    font-size: 100px;/* text font weight. 300 is light, 400 is normal. DOES NOT AFFECT BOLD TEXT */
+    font-size: 25px;/* text font weight. 300 is light, 400 is normal. DOES NOT AFFECT BOLD TEXT */
     letter-spacing: -0.05ch; /* decreases letter spacing for better readability. recommended on monospace fonts.*/
 
     /* sizes */
@@ -252,7 +252,7 @@ body {
     }
     .a2f5142ba8328dfd-content::before {
         display: block;
-        content: url('https://raw.githubusercontent.com/refact0r/system24/refs/heads/main/assets/cats.gif');
+        content: url('https://raw.githubusercontent.com/system-failure-b8xy/system16/refs/heads/main/assets/cats.gif');
     }
     .a2f5142ba8328dfd-text {
         position: static;
