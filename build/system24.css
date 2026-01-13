@@ -3,11 +3,10 @@
 @import url('https://fonts.googleapis.com/css2?family=VT323:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
 
 @font-face {
-    font-family: 'asciid';
-    font-style: normal;
-    font-weight: 400;
-    src: local('asciid'), url('https://refact0r.github.io/system24/assets/asciid.woff') format('woff');
-}
+    font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: normal;
+
 
 body {
     /* font, change to '' for default discord font */
